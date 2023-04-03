@@ -1,2 +1,1 @@
-# Prepcouse
-Este es un repositorio de prueba del modulo 1 del prepcourse de Henry
+este es un proyecto de pruebva de como crear un repositorio y clonarlo desde github a mi computadora.
